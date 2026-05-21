@@ -11,12 +11,12 @@ credits: true
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
 ## About Carolina Raptor Center
-
 The idea for a raptor rehabilitation center in Charlotte, NC hatched in 1975 when an injured Broad-winged Hawk was brought to UNC Charlotte ornithologist Dr. Richard Brown. In 1981, Dr. Brown and student Deb Sue Griffin co-founded the nonprofit that would become the Carolina Raptor Center (CRC).
 
 In 1984, CRC moved to its current location within Latta Nature Preserve and expanded to include the Raptor Trail, a zoo highlighting birds of prey. In the following decades, the Raptor Trail became a premiere destination to learn about raptors, and the Raptor Hospital grew into a sophisticated facility capable of providing treatment informed by raptors’ unique needs.
 
 Today, CRC is regarded as a leader in raptor rehabilitation, education, and research. The Raptor Hospital has admitted more than 26,000 patients while the Raptor Trail sees over 35,000 visitors each year. CRC’s expert staff remains committed to igniting a passion for raptors and our shared natural world.
+
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
         <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
