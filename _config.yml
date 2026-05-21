@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Carolina Raptor Center Archives: Labeled and Dated Pictures
+title: Carolina Raptor Center Archives
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Carolina Raptor Center is a 501(c)(3) nonprofit in Huntersville, NC dedicated to raptor rehabilitation, education, and conservation.
+tagline: Labeled and Dated Pictures
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "At the Carolina Raptor Center, our mission is to ignite a passion for raptors and a responsibility for our shared natural world. Our Raptor Hospital provides medical care for sick, injured, or orphaned raptor patients. Every patient is treated with the goal of successful return to the wild. Our Raptor Trail is a zoo highlighting birds of prey. Our avian ambassadors inspire the public to be stewards of the natural world."
+description: "Carolina Raptor Center is a 501(c)(3) nonprofit in Huntersville, NC dedicated to raptor rehabilitation, education, and conservation. At the Carolina Raptor Center, our mission is to ignite a passion for raptors and a responsibility for our shared natural world. Our Raptor Hospital provides medical care for sick, injured, or orphaned raptor patients. Every patient is treated with the goal of successful return to the wild. Our Raptor Trail is a zoo highlighting birds of prey. Our avian ambassadors inspire the public to be stewards of the natural world."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Carolina Raptor Center
 
